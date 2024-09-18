@@ -4,6 +4,7 @@ This repository contains a project on satellite image classification using Convo
 
 Name: DeepSat SAT-4
 Source: Kaggle - DeepSat SAT-4
+https://www.kaggle.com/datasets/crawford/deepsat-sat4
 
 **Description:** 
 
