@@ -1,10 +1,13 @@
 This repository contains a project on satellite image classification using Convolutional Neural Networks (CNN). The model is trained and evaluated using the DeepSat SAT-4 dataset, which consists of satellite imagery across multiple classes, helping in tasks such as land cover classification.
 
 **Dataset**
+
 Name: DeepSat SAT-4
 Source: Kaggle - DeepSat SAT-4
 
-**Description:** The SAT-4 dataset contains 500,000 labeled image patches from satellite imagery. The images are classified into four classes: barren land, trees, grassland, and a class that combines various other land cover types. Each image patch is 28x28 pixels and consists of 4 channels (red, green, blue, near-infrared).
+**Description:** 
+
+The SAT-4 dataset contains 500,000 labeled image patches from satellite imagery. The images are classified into four classes: barren land, trees, grassland, and a class that combines various other land cover types. Each image patch is 28x28 pixels and consists of 4 channels (red, green, blue, near-infrared).
 Project Overview
 
 **Objective:** Classify satellite images into different land cover categories using a CNN model.
